@@ -1,0 +1,1 @@
+export const Color = '#FF9933'
